@@ -1,1 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    background-color: #BF9A54;
+    color: #38401D;
+}
 
+.wrapper {
+    width: 80%;
+    margin: auto;
+    max-width: 1200px;
+}
+
+/* HEADER SECTION */
+
+.header {
+    overflow: hidden;
+}
+
+header h1 {
+    /* float: left; */
+    font-size: 160%; 
+    display: inline-block;     
+}
