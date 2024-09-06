@@ -1,3 +1,13 @@
+/* HEAD */
+
+head {
+  font-family: 'Handjet', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+/* SECTIONS */
+
 section:after {
     content: " ";
     display: block;
