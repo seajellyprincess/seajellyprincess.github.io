@@ -10,6 +10,12 @@ h1 {
   color: #FFFFFF;
 }
 
+/* BODY */
+
+body {
+     background-color: black;
+}
+
 /* SECTIONS */
 
 section:after {
