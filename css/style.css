@@ -10,6 +10,34 @@ h1 {
   color: #FFFFFF;
 }
 
+/* NAVIGATION */
+
+.topnav {
+  background-color: #000000;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:'Handjet';
+  font-weight: 300;
+  font-size: 200%
+}
+
+.topnav a:hover {
+  background-color: #000000;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
 /* BODY */
 
 body {
