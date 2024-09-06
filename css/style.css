@@ -18,7 +18,7 @@ h1 {
 }
 
 .topnav a {
-  float: left;
+  float: right;
   color: #FFFFFF;
   text-align: center;
   padding: 14px 16px;
@@ -34,7 +34,7 @@ h1 {
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #E3A4F0;
   color: white;
 }
 
