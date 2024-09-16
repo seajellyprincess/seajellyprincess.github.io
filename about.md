@@ -1,3 +1,9 @@
+---
+Title: About
+Layout: template
+Filename: about.md
+--- 
+
 <html>
   
   <head>
