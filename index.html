@@ -14,7 +14,7 @@
   
   <div class="topnav">
   <a class="active" href="#home">HOME</a>
-  <a href="#socials">ADD ME!</a>
+  <a href="#socials">IN THE WILD</a>
   <a href="#contact">CONTACT</a>
   <a href="#about">ABOUT</a>
   </div>
