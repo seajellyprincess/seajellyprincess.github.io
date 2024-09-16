@@ -73,3 +73,19 @@ section {
 section h2 {
     text-align: center;
 }
+
+/ * ABOUT SECTION */
+
+/* About Section */
+
+#about {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.about-section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+}
