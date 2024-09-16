@@ -10,6 +10,16 @@ h1 {
   color: #FFFFFF;
 }
 
+h2 {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  font-family: 'PT Sans';
+  font-weight: 400;
+  font-size: 100%;
+  color: #FFFFFF;
+}
+
 /* NAVIGATION */
 
 .topnav {
@@ -76,16 +86,12 @@ section h2 {
 
 / * ABOUT SECTION */
 
-/* About Section */
-
-#about {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
-.about-section-content {
-  display: flex;
-  flex-direction: column;
-  gap: 34px;
+p {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  font-family: 'PT Sans';
+  font-weight: 400;
+  font-size: 80%;
+  color: #FFFFFF;
 }
