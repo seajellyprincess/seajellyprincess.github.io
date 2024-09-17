@@ -102,3 +102,12 @@ grid-template-columns: 1fr 1fr;
 column-gap: 10px;
 row-gap: 10px;
 }
+
+div.about-container img {
+    width: 33.33%;
+    float: left;
+    box-sizing: border-box;
+    border: 5px solid transparent;
+    opacity: 1;
+    transition: opacity .5s;
+}
