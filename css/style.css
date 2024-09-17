@@ -104,8 +104,8 @@ row-gap: 10px;
 }
 
 div.about-container img {
-    width: 33.33%;
-    float: left;
+    width: 50%;
+    float: right;
     box-sizing: border-box;
     border: 5px solid transparent;
     opacity: 1;
