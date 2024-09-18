@@ -98,6 +98,7 @@ p {
 
 .about-container{
 display: grid;
+text-align: center;
 float: center;
 grid-template-columns: 1fr 1fr;
 column-gap: 10px;
